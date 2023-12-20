@@ -7,4 +7,9 @@
         <input href="../flowers-ch/%E8%8A%B1%E6%9C%B5.ditamap"/>
     </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
+    <deliverable id="dev1-1703090410455" name="dev1">
+        <context idref="LADKalIolvigzPB"/>
+        <output href="webhelp-output"/>
+        <publication idref="webhelp"/>
+    </deliverable>
 </project>
