@@ -3,13 +3,5 @@
     <context id="DrrKOMSkqNksVFj" name="2">
         <input href="../flowers-ch-references-unescaped/%E8%8A%B1%E6%9C%B5.ditamap"/>
     </context>
-    <context id="qiArpVOYnGadFsb" name="1">
-        <input href="../flowers-ch/%E8%8A%B1%E6%9C%B5.ditamap"/>
-    </context>
     <publication id="webhelp" transtype="webhelp-responsive"/>
-    <deliverable id="1-1703090276366" name="1">
-        <context idref="qiArpVOYnGadFsb"/>
-        <output href="webhelp-output"/>
-        <publication idref="webhelp"/>
-    </deliverable>
 </project>
